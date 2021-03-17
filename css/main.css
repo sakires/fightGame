@@ -172,9 +172,7 @@
     display: flex;
     flex-wrap : wrap;
     width: 100%;
-    min-height: 100%;
     margin-bottom: 5%;
-    position: relative;
 }
 
 .corpsEVO{
@@ -192,7 +190,6 @@ header{
 }
 footer{
     background-color: black;
-    position: absolute;
     display: flex;
     width: 100%;
     bottom:0;
